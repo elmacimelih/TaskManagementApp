@@ -1,0 +1,17 @@
+C:\Users\melih\source\repos\TaskManagementApp\TaskManagement.Infrastructure\bin\Debug\net8.0\TaskManagement.Infrastructure.deps.json
+C:\Users\melih\source\repos\TaskManagementApp\TaskManagement.Infrastructure\bin\Debug\net8.0\TaskManagement.Infrastructure.runtimeconfig.json
+C:\Users\melih\source\repos\TaskManagementApp\TaskManagement.Infrastructure\bin\Debug\net8.0\TaskManagement.Infrastructure.dll
+C:\Users\melih\source\repos\TaskManagementApp\TaskManagement.Infrastructure\bin\Debug\net8.0\TaskManagement.Infrastructure.pdb
+C:\Users\melih\source\repos\TaskManagementApp\TaskManagement.Infrastructure\bin\Debug\net8.0\TaskManagement.Domain.dll
+C:\Users\melih\source\repos\TaskManagementApp\TaskManagement.Infrastructure\bin\Debug\net8.0\TaskManagement.Domain.pdb
+C:\Users\melih\source\repos\TaskManagementApp\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\melih\source\repos\TaskManagementApp\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\source\repos\TaskManagementApp\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\melih\source\repos\TaskManagementApp\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\melih\source\repos\TaskManagementApp\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\TaskManagementApp\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskMana.BCA0E1A6.Up2Date
+C:\Users\melih\source\repos\TaskManagementApp\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.dll
+C:\Users\melih\source\repos\TaskManagementApp\TaskManagement.Infrastructure\obj\Debug\net8.0\refint\TaskManagement.Infrastructure.dll
+C:\Users\melih\source\repos\TaskManagementApp\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.pdb
+C:\Users\melih\source\repos\TaskManagementApp\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.genruntimeconfig.cache
+C:\Users\melih\source\repos\TaskManagementApp\TaskManagement.Infrastructure\obj\Debug\net8.0\ref\TaskManagement.Infrastructure.dll

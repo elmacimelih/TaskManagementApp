@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melih\\Documents\\GitHub\\TaskManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6139C1B6-6862-452E-9783-4AEF4C12A8FD}|TaskManagement.API\\TaskManagement.API.csproj|c:\\users\\melih\\documents\\github\\taskmanagementapp\\taskmanagement.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6139C1B6-6862-452E-9783-4AEF4C12A8FD}|TaskManagement.API\\TaskManagement.API.csproj|solutionrelative:taskmanagement.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1B0B10-C65E-4BEE-B638-00B8048DFC04}|TaskManagement.Application\\TaskManagement.Application.csproj|c:\\users\\melih\\documents\\github\\taskmanagementapp\\taskmanagement.application\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1B0B10-C65E-4BEE-B638-00B8048DFC04}|TaskManagement.Application\\TaskManagement.Application.csproj|solutionrelative:taskmanagement.application\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6139C1B6-6862-452E-9783-4AEF4C12A8FD}|TaskManagement.API\\TaskManagement.API.csproj|c:\\users\\melih\\documents\\github\\taskmanagementapp\\taskmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6139C1B6-6862-452E-9783-4AEF4C12A8FD}|TaskManagement.API\\TaskManagement.API.csproj|solutionrelative:taskmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE9E982-7210-4742-A2A8-B6D98E5459A4}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|c:\\users\\melih\\documents\\github\\taskmanagementapp\\taskmanagement.infrastructure\\persistence\\repositories\\eftaskassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE9E982-7210-4742-A2A8-B6D98E5459A4}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|solutionrelative:taskmanagement.infrastructure\\persistence\\repositories\\eftaskassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1B0B10-C65E-4BEE-B638-00B8048DFC04}|TaskManagement.Application\\TaskManagement.Application.csproj|c:\\users\\melih\\documents\\github\\taskmanagementapp\\taskmanagement.application\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1B0B10-C65E-4BEE-B638-00B8048DFC04}|TaskManagement.Application\\TaskManagement.Application.csproj|solutionrelative:taskmanagement.application\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE9E982-7210-4742-A2A8-B6D98E5459A4}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|c:\\users\\melih\\documents\\github\\taskmanagementapp\\taskmanagement.infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE9E982-7210-4742-A2A8-B6D98E5459A4}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|solutionrelative:taskmanagement.infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\Documents\\GitHub\\TaskManagementApp\\TaskManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\melih\\Documents\\GitHub\\TaskManagementApp\\TaskManagement.API\\Program.cs",
+              "RelativeToolTip": "TaskManagement.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:07:23.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\Documents\\GitHub\\TaskManagementApp\\TaskManagement.Application\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Application\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\melih\\Documents\\GitHub\\TaskManagementApp\\TaskManagement.Application\\Services\\TaskService.cs",
+              "RelativeToolTip": "TaskManagement.Application\\Services\\TaskService.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAuwHMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:59:51.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\Documents\\GitHub\\TaskManagementApp\\TaskManagement.Application\\Interfaces\\ITaskService.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Application\\Interfaces\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\melih\\Documents\\GitHub\\TaskManagementApp\\TaskManagement.Application\\Interfaces\\ITaskService.cs",
+              "RelativeToolTip": "TaskManagement.Application\\Interfaces\\ITaskService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvxMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:59:48.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EfTaskAssignmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\Documents\\GitHub\\TaskManagementApp\\TaskManagement.Infrastructure\\Persistence\\Repositories\\EfTaskAssignmentRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Infrastructure\\Persistence\\Repositories\\EfTaskAssignmentRepository.cs",
+              "ToolTip": "C:\\Users\\melih\\Documents\\GitHub\\TaskManagementApp\\TaskManagement.Infrastructure\\Persistence\\Repositories\\EfTaskAssignmentRepository.cs",
+              "RelativeToolTip": "TaskManagement.Infrastructure\\Persistence\\Repositories\\EfTaskAssignmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:59:19.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\Documents\\GitHub\\TaskManagementApp\\TaskManagement.API\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskManagement.API\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\melih\\Documents\\GitHub\\TaskManagementApp\\TaskManagement.API\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskManagement.API\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:52:36.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\melih\\Documents\\GitHub\\TaskManagementApp\\TaskManagement.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\melih\\Documents\\GitHub\\TaskManagementApp\\TaskManagement.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "TaskManagement.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:44:37.241Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
